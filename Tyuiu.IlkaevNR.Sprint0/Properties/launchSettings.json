@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Tyuiu.IlkaevNR.Sprint0": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
