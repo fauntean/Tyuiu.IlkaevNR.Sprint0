@@ -1,6 +1,6 @@
-﻿using Tyuiu.IlkaevNR.Sprint0.Task4.V0.Lib;
+﻿using Tyuiu.IlkaevNR.Sprint0.Task5.V0.Lib;
 
-namespace Tyuiu.IlkaevNR.Sprint0.Task4.V0.Test
+namespace Tyuiu.IlkaevNR.Sprint0.Task5.V0.Test
 {
     [TestClass]
     public sealed class DataServiceTest
@@ -10,7 +10,7 @@ namespace Tyuiu.IlkaevNR.Sprint0.Task4.V0.Test
         {
             Assert.AreEqual(10, DataService.Addition(5, 5));
         }
-
+        
         [TestMethod]
         public void CheckedSubstractionValid()
         {
